@@ -12,7 +12,7 @@ global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
 global.botname = 'EMMY-GAMER-BOTZZ' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
+global.ownernumber = '2348164573424' //ur owner number
 global.ownername = 'EMMY-PRO-V2' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
